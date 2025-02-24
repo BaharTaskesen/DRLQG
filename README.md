@@ -1,7 +1,7 @@
 # Distributionally Robust Linear Quadratic Control
 
 -----------
-Authors: Bahar Taskesen, Dan Andrei Iancu, Çağıl Koçyiğit, Daniel Kuhn 
+Authors: Bahar Taşkesen, Dan Andrei Iancu, Çağıl Koçyiğit, Daniel Kuhn 
 
 ------------
 
