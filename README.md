@@ -1,10 +1,5 @@
 # Distributionally Robust Linear Quadratic Control
 
------------
-Authors: Bahar Taşkesen, Dan Andrei Iancu, Çağıl Koçyiğit, Daniel Kuhn 
-
-------------
-
 ### Dependencies
 
 - Numpy 1.24.3
