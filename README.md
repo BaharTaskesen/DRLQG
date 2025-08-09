@@ -1,4 +1,4 @@
-# Distributionally Robust Linear Quadratic Control
+# Optimality of Linear Policies in Distributionally Robust Linear Quadratic Control
 
 ### Dependencies
 
